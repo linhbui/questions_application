@@ -1,7 +1,7 @@
-questions_application
+quora_database
 =====================
 
-A Ruby application that handles questions from users. Topic: SQL (create, update, select, join, relationship tables), SQLite3, Ruby.
+A Ruby application that handles questions and replies from users. Topic: SQL (create, update, select, join, relationship tables), SQLite3, Ruby.
 Tables:
 - Users
 - Questions
